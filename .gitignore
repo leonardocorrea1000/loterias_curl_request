@@ -1,0 +1,15 @@
+cookie.txt
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+sftp-config.json
+.vscode-upload.json
+*.sublime*
+cookie.txt
+/nbproject/private/
+/nbproject
